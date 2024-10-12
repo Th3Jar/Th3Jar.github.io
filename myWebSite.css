@@ -1,0 +1,23 @@
+body{
+    background-color:cadetblue;;
+}
+
+h1{
+    color:midnightblue;
+    text-align: center;
+}
+
+#githubLogo{
+    height: 20px;
+    width: 20px;
+}
+
+#resumeLogo{
+    height: 20px;
+    width: 20px;
+}
+
+#gmailLogo{
+    height: 20px;
+    width: 20px;
+}
